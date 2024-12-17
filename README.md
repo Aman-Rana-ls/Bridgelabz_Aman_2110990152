@@ -12,3 +12,5 @@
 11. What is the CLR in .NET?
 12. What is the Common Type System (CTS) in .NET?
 13. Can you explain namespaces in C# ?
+
+Build a C# Program to to Check whether a number is Armstong or not.
