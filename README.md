@@ -1,1 +1,4 @@
-# Bridgelabz_Aman_2110990152
+Date : 14/01/2025
+
+1.Design Principles in C#
+2.Basic Ado.net
