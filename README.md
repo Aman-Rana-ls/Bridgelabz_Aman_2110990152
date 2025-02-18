@@ -1,4 +1,4 @@
-Date: 10-02-2025
+Date: 11-02-2025
 Task: Progress on FundooNotes API
 
-Today, progress was made on the FundooNotes API by implementing key features: trash, restore, delete, archived, and unarchived. Users can now temporarily move notes to trash, restore them, permanently delete them, archive for better organization, and unarchive when needed. These updates improve note management and give users more control over their content.
+Today, I successfully integrated loggers into the FundooNotes project. This enhancement will improve error tracking, debugging, and overall monitoring of the application, providing better insights into the system's behavior and performance.
